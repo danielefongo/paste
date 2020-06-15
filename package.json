@@ -1,0 +1,11 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "main": "action.js",
+  "author": "",
+  "license": "ISC",
+  "description": "Paste toggl time entries",
+  "dependencies": {
+    "clipboardy": "^2.3.0"
+  }
+}
