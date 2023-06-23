@@ -6,6 +6,6 @@
   "license": "ISC",
   "description": "Paste toggl time entries",
   "dependencies": {
-    "clipboardy": "^2.3.0"
+    "clipboardy": "^3.0.0"
   }
 }
